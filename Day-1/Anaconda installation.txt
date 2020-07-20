@@ -1,0 +1,13 @@
+ANACONDA : 
+    1. Open anaconda cloud.
+    2. Download anaconda for your os.
+    3. Install on the device.
+
+JUPYTER NOTEBOOK :
+    4. Launch the jupyter notebook from anaconda 
+        navigator.
+
+Other packages :
+    1. OpenCV and cv2
+    2. Tensorflow
+    3. Keras
